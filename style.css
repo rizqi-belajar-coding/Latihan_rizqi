@@ -1,0 +1,53 @@
+.body {
+    
+    background-color: rgb(205, 15, 164);
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+
+.h1 {
+    border: 0cqmax;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    background: rgb(4, 203, 233);
+    padding: 32px;
+    border-radius: 32px;
+    box-shadow: 120px;
+}
+
+
+.body {
+    max-width: 60px;
+    margin-left: auto;
+    background: aqua;
+    padding: 43px;
+    border-style: double;
+    box-shadow: 100px;
+}
+
+.img-con {
+    width: 60%;
+    height: 70%;
+    background-size: cover;
+    border-radius: 10px;
+    padding: 40px;
+}
+
+.isi {
+    padding-left: 120px;
+    width: 80px;
+    background-position: 300px;
+    display: flex;
+    justify-content: left;
+}
